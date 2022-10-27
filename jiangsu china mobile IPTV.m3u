@@ -9,6 +9,12 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4",CCTV-4
 http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4",CCTV-4
@@ -63,12 +69,6 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,CGTN
 http://39.135.138.58:18890/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1,CBN每日影院
-http://120.253.104.16:808/hls/140/index.m3u8
-#EXTINF:-1,CBN幸福剧场
-http://120.253.104.16:808/hls/142/index.m3u8
-#EXTINF:-1,CBN幸福娱乐
-http://120.253.104.16:808/hls/143/index.m3u8
 #EXTINF:-1,中国教育4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:-1,新华中文
